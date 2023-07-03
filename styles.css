@@ -78,13 +78,13 @@ h4{
     margin-top: 40px;
     margin-bottom: 140px;
     animation: fadein 8s 1;
-    margin-left: 40%;
+    margin-left: 20%;
 }
 img{
     width: 80%;
     height:auto;
     border-radius: 20px;
-    margin-left: 25%;
+    margin-left: 15%;
     margin-bottom: 5%;
     margin-top: 5%;
     filter:drop-shadow(1px 1px 5px rgb(250, 251, 250)) ;
@@ -95,7 +95,7 @@ h5{
     font-family:Snell Roundhand, cursive;
     margin-top:20px;
     padding-bottom: 30px;
-    margin-left: 40px;
+    margin-left: 15%;
 }
 
 button{
