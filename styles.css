@@ -50,7 +50,7 @@ h1{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-left:auto;
     margin-right:auto;
-    margin-top:70%;
+    margin-top:20%;
     margin-bottom: 20px;
     text-shadow: 3px 3px 20px whitesmoke;
     animation:SlideInLeft 3s ease-in-out;
@@ -76,7 +76,7 @@ h4{
     font-size: 30px;
     font-family:Snell Roundhand, cursive;
     margin-top: 40px;
-    margin-bottom: 200px;
+    margin-bottom:90%;
     animation: fadein 8s 1;
     margin-left: 20%;
 }
